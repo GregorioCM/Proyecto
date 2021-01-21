@@ -1,0 +1,8 @@
+nameDataBase = 'dataBaseDefault'
+pathDataBase = 'C:\Users\ConchiC\PycharmProjects\untitled\'
+pathDataOfPacket = 'C:\Users\ConchiC\PycharmProjects\untitled\pathDataOfPacket'
+
+
+CAUTION!! Don't delete and don't move without the program file. This file is a config file
+Instructions: 
+Please, respect format of this file. In this file you can specify path of dataBase the same as dataBase's name
